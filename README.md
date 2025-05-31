@@ -81,6 +81,6 @@ Este projeto é open-source e gratuito, feito para fortalecer o aprendizado cole
 ---
 
 > **Desenvolvido por:** Guilherme Gonçalves – DevOps & Automação Educacional  
-> 💬 Para dúvidas ou sugestões: [LinkedIn](https://www.linkedin.com/in/ggoncalves9) | @realmirage.ai
+> 💬 Para dúvidas ou sugestões: [LinkedIn](https://www.linkedin.com/in/ggoncalves9) | [Instagram](https://www.instagram.com/realmirage.ia/) | [Empresa Site](https://realmirage.com.br/)
 
 
